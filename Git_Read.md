@@ -68,6 +68,3 @@ git status
 # 🎯 1 câu chốt (cực dễ nhớ)
 
 > 🔑 **Muốn gửi nhiều file → dùng `git add .`**
-
-
-Bạn muốn mình hướng dẫn tiếp phần đó không? 😄
