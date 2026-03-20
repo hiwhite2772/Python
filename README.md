@@ -41,7 +41,7 @@ Python là một ngôn ngữ lập trình:
 🧠 Ví dụ:
 
 def greet(name):
-    return f"Hello {name}" \t
+    return f"Hello {name}"
 
 print(greet("White"))
 
