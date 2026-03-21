@@ -443,13 +443,9 @@ Dùng checklist này để biết mình đang ở đâu trong lộ trình.
 ## 🎯 Kết luận
 
 Python là lựa chọn tuyệt vời để bắt đầu lập trình. Hai điều quan trọng nhất:
-
 > **Học đi đôi với làm project** — lý thuyết không thể thay thế việc tự tay viết code.
-
 > **Kiên trì hơn tốc độ** — không cần học nhanh, cần học chắc.
 
 Chúc bạn học tốt! 🚀
 
 ---
-
-*Made with ❤️ | Cập nhật: 2025*
