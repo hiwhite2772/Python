@@ -1,4 +1,4 @@
-#Greatest Common Divisor
+#Greatest Common Divisor - Phân số
 from math import gcd
 a, b = map(int, input("a, b = ").split())
 g = gcd(a, b)  #Phân số
